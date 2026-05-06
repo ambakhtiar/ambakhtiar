@@ -1,8 +1,8 @@
 <div>
- <img src="./assets/Banner.png" alt="AM Bakhtiar">
+<img src="./assets/Banner.png" alt="AM Bakhtiar">
 </div>
 
-<br/>
+
 
 <div align="center">
   <h1 style="display: inline-block;">Hi 👋, I'm Abdullah Muhammad Bakhtiar</h1>
@@ -11,18 +11,20 @@
   </a>
 </div>
 
-<br/>
+
 
 ### 👨‍💻 About Me & Professional Summary
 
-👋 Hi, I’m **ABDULLAH MUHAMMAD BAKHTIAR** ([@ambakhtiar](https://github.com/ambakhtiar))
-🖥️ I’m currently focused on modern web development with **Next.js, React, TypeScript, and Tailwind CSS.**
-🗄️ Using **Node.js, Express.js, PostgreSQL (Prisma ORM), and MongoDB** for the backend.
-🛠️ I’m currently learning **Docker, AWS, Data Science, Machine Learning, and Generative AI.**
-💬 Ask me about **Full-Stack (Next, Node, PostgreSQL, MongoDB)** or **Competitive Programming (500+ problems)**.
-🌐 Explore my **Portfolio**, my [**GitHub**](https://github.com/ambakhtiar), and my **Resume**
-📝 Connect with me on [**LinkedIn**](https://linkedin.com/in/ambakhtiar)
-📫 Feel free to reach out via [**Email**](mailto:ambakhtiar88@gmail.com) or [**WhatsApp**](https://wa.me/8801614418883)/[**Telegram**](https://t.me/+8801614418883)
+I am a passionate **Full-Stack Developer** and **Problem Solver** with a strong foundation in **Competitive Programming**. I enjoy building scalable, real-world web applications and am currently expanding my expertise into **AI and Data Science**.
+
+- 👋 Hi, I’m **ABDULLAH MUHAMMAD BAKHTIAR** ([@ambakhtiar](https://github.com/ambakhtiar))
+- 🖥️ I’m currently focused on modern web development with **Next.js, React, TypeScript, and Tailwind CSS.**
+- 🗄️ Using **Node.js, Express.js, PostgreSQL (Prisma ORM), and MongoDB** for the backend.
+- 🛠️ I’m currently learning **Docker, AWS, Data Science, Machine Learning, and Generative AI.**
+- 💬 Ask me about **Full-Stack (Next, Node, PostgreSQL, MongoDB)** or **Competitive Programming (500+ problems)**.
+- 🌐 Explore my **Portfolio**, my [**GitHub**](https://github.com/ambakhtiar), and my **Resume**
+- 📝 Connect with me on [**LinkedIn**](https://linkedin.com/in/ambakhtiar)
+- 📫 Feel free to reach out via [**Email**](mailto:ambakhtiar88@gmail.com) or [**WhatsApp**](https://wa.me/8801614418883)/[**Telegram**](https://t.me/+8801614418883)
 
 <br/>
 
@@ -99,25 +101,19 @@
   <img src="https://komarev.com/ghpvc/?username=ambakhtiar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<div>
-<p align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=ambakhtiar&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
-</p>
-<p align="center">
-  ![](https://streak-stats.demolab.com/?user=ambakhtiar&theme=github_dark_dimmed&hide_border=false)
-</p>
- <p align="center">
-   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ambakhtiar&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ambakhtiar&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&show=contributors" />
+  &nbsp;&nbsp;
 </div>
 
 <br/>
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ambakhtiar&theme=transparent&border_color=0E75B6&hide_border=false" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="165" src="https://github-profile-trophy.vercel.app/?username=ambakhtiar&theme=transparent&no-bg=true&column=2&margin-w=8" alt="GitHub Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=ambakhtiar&theme=github_dark_dimmed&hide_border=false" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ambakhtiar&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br/>
@@ -126,3 +122,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambakhtiar&theme=react-dark" />
   </a>
 </p> 
+
+<div align="center">
+  <img height="160" src="https://github-profile-trophy.vercel.app/?username=ambakhtiar&theme=nightwolf&no-bg=true" alt="" />
+</div>
+
+
