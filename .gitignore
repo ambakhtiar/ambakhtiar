@@ -1,0 +1,21 @@
+.agent
+.agent-mem
+.agents
+.brainsync
+.cursor
+.vscode
+.mcp.json
+.windsurfrules
+AGENT.md
+CLAUDE.md
+
+# Auto-generated agent rules (personalized per developer)
+.brainsync/agent-rules.md
+
+# Auto-generated AI agent exclusions
+.cursorrules
+.clineRules
+.agent/
+.gemini/
+.cline/
+.agent-mem/
