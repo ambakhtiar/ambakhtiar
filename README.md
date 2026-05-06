@@ -1,163 +1,155 @@
 <div align="center">
-
-# Abdullah Muhammad Bakhtiar
-### Full-Stack Developer · Problem Solver · Community Builder
-
-[![Email](https://img.shields.io/badge/Email-ambakhtiar88@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ambakhtiar88@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ambakhtiar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ambakhtiar)
-[![Codeforces](https://img.shields.io/badge/Codeforces-out__of__the__Circle-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/out_of_the_Circle)
-[![Location](https://img.shields.io/badge/Chittagong-Bangladesh-006A4E?style=flat-square&logo=googlemaps&logoColor=white)]()
-
+<!-- BANNER -->
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="220" rx="12" fill="#04342C"/>
+  <g opacity="0.07" stroke="#5DCAA5" stroke-width="0.5">
+    <line x1="0" y1="40" x2="680" y2="40"/><line x1="0" y1="80" x2="680" y2="80"/>
+    <line x1="0" y1="120" x2="680" y2="120"/><line x1="0" y1="160" x2="680" y2="160"/>
+    <line x1="0" y1="200" x2="680" y2="200"/><line x1="80" y1="0" x2="80" y2="220"/>
+    <line x1="160" y1="0" x2="160" y2="220"/><line x1="240" y1="0" x2="240" y2="220"/>
+    <line x1="320" y1="0" x2="320" y2="220"/><line x1="400" y1="0" x2="400" y2="220"/>
+    <line x1="480" y1="0" x2="480" y2="220"/><line x1="560" y1="0" x2="560" y2="220"/>
+    <line x1="640" y1="0" x2="640" y2="220"/>
+  </g>
+  <rect x="40" y="44" width="3" height="60" rx="2" fill="#1D9E75"/>
+  <text x="56" y="72" font-family="sans-serif" font-size="26" font-weight="500" fill="#E1F5EE">Abdullah Muhammad Bakhtiar</text>
+  <text x="57" y="96" font-family="sans-serif" font-size="14" fill="#9FE1CB">Problem Solver · Full-Stack Developer · AI &amp; Data Science Enthusiast</text>
+  <rect x="56" y="116" width="68" height="24" rx="12" fill="#085041" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="90" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#9FE1CB">Next.js</text>
+  <rect x="132" y="116" width="68" height="24" rx="12" fill="#085041" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="166" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#9FE1CB">Node.js</text>
+  <rect x="208" y="116" width="84" height="24" rx="12" fill="#085041" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="250" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#9FE1CB">PostgreSQL</text>
+  <rect x="300" y="116" width="84" height="24" rx="12" fill="#085041" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="342" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#9FE1CB">TypeScript</text>
+  <rect x="392" y="116" width="58" height="24" rx="12" fill="#085041" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="421" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#9FE1CB">ML / AI</text>
+  <rect x="458" y="116" width="72" height="24" rx="12" fill="#085041" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="494" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#9FE1CB">500+ CP</text>
+  <line x1="40" y1="158" x2="640" y2="158" stroke="#0F6E56" stroke-width="0.5"/>
+  <text x="40" y="180" font-family="sans-serif" font-size="13" fill="#5DCAA5">CSE Graduate · IIUC Chittagong · Building real-world products for Bangladesh</text>
+  <text x="40" y="204" font-family="sans-serif" font-size="12" fill="#0F6E56">Exploring: Web · Data Science · Machine Learning · Aeronautics &amp; Space</text>
+  <circle cx="618" cy="56" r="36" fill="none" stroke="#0F6E56" stroke-width="0.5"/>
+  <circle cx="618" cy="56" r="24" fill="none" stroke="#0F6E56" stroke-width="0.5"/>
+  <circle cx="618" cy="56" r="10" fill="#1D9E75" opacity="0.4"/>
+  <circle cx="618" cy="56" r="4" fill="#1D9E75"/>
+</svg>
+<br/>
 </div>
 
----
-
-## 👋 About Me
-
-I'm a **CSE graduate** from International Islamic University Chittagong with a strong foundation in algorithms and a growing passion for building full-stack web applications that solve real problems.
-
-My journey started in competitive programming — 500+ problems, 50+ online contests, and 5 offline contests — which shaped how I think through complex systems. Today I apply that same problem-solving mindset to product development: building platforms like a **blood donation ecosystem** and a **multi-seller medicine marketplace** for Bangladesh.
-
-Currently deepening my expertise through advanced full-stack training (Next.js, TypeScript, PostgreSQL, Docker) and a parallel data science track (ML, Deep Learning, Generative AI) — aiming to work at the intersection of **software engineering and AI**.
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Database & Auth**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Languages & Tools**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-### 🩸 BloodHelp — Blood Donation & Crowdfunding Platform
-> Multi-role platform connecting donors, hospitals, and NGOs across Bangladesh for emergency blood finding and medical crowdfunding.
-
-- 6-role RBAC system (User, Hospital, Organisation, Admin, Super Admin)
-- Hybrid JWT auth immune to CSRF & XSS — access token in memory, refresh token in HttpOnly cookie
-- Geo-filtered donor search by Division → District → Upazila with eligibility enforcement
-- SSLCommerz payment integration with IPN-verified crowdfunding ledger
-- 52 REST API endpoints across 11 domain modules
-
-**Stack:** `Next.js 16` `React 19` `Node.js` `Express` `PostgreSQL` `Prisma` `TanStack Query` `Zod` `SSLCommerz` `Cloudinary`
-
-[![Frontend](https://img.shields.io/badge/Live_Demo-bloodhelp.vercel.app-000?style=flat-square&logo=vercel)](https://bloodhelp.vercel.app)
-[![Backend API](https://img.shields.io/badge/API-bloodhelp--backend.vercel.app-339933?style=flat-square&logo=node.js)](https://bloodhelp-backend.vercel.app/api/v1)
-[![Frontend Repo](https://img.shields.io/badge/Repo-Frontend-181717?style=flat-square&logo=github)](https://github.com/ambakhtiar/BloodHelp-Frontend)
-[![Backend Repo](https://img.shields.io/badge/Repo-Backend-181717?style=flat-square&logo=github)](https://github.com/ambakhtiar/BloodHelp-Backend)
-
----
-
-### 💊 MediStore — Multi-Seller Medicine Marketplace
-> Online OTC medicine e-commerce platform where customers across Bangladesh can order from multiple verified sellers, managed by a centralized admin layer.
-
-- Multi-seller architecture — each seller independently manages their own catalogue
-- Full order lifecycle: `PENDING → PROCESSING → SHIPPED → DELIVERED → CANCELLED`
-- Delivery-gated review system — only buyers with confirmed delivery can review
-- Admin ban/unban system enforced at auth middleware level
-- Better Auth session management with HttpOnly cookies
-
-**Stack:** `Next.js 14` `React 18` `Node.js` `Express` `PostgreSQL` `Prisma` `TanStack Form` `Zod` `Better Auth`
-
-[![Frontend](https://img.shields.io/badge/Live_Demo-medistore--medicine.vercel.app-000?style=flat-square&logo=vercel)](https://medistore-medicine.vercel.app)
-[![Backend API](https://img.shields.io/badge/API-medistore--med.vercel.app-339933?style=flat-square&logo=node.js)](https://medistore-med.vercel.app)
-[![Frontend Repo](https://img.shields.io/badge/Repo-Frontend-181717?style=flat-square&logo=github)](https://github.com/ambakhtiar/MediStore-Frontend)
-[![Backend Repo](https://img.shields.io/badge/Repo-Backend-181717?style=flat-square&logo=github)](https://github.com/ambakhtiar/MediStore-Backend)
-
----
-
-### 🕊️ Donate for Bangladesh — Crowdfunding Platform
-> Transparent donation platform for Bangladesh crisis relief — flood victims, Quota Movement injured, and other urgent humanitarian causes.
-
-- Real-time balance tracking with instant donation feedback
-- Transaction history log for full donor transparency
-- Responsive SPA with DOM-based state management
-
-**Stack:** `HTML5` `JavaScript (ES6+)` `Tailwind CSS` `DaisyUI`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-donate--for--bangladesh.vercel.app-000?style=flat-square&logo=vercel)](https://donate-for-bangladesh-one.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ambakhtiar/Donate-for-Bangladesh)
-
----
-
-## 🏆 Achievements
-
-| | |
-|---|---|
-| 🥉 **2nd Runner-up** | IIUC Inter-University Mobile Games & Apps Development Contest |
-| 🚀 **Participant** | NASA International Space Apps Challenge — Hackathon, October 2024 |
-| 🧠 **500+ problems** | Competitive programming across Codeforces, LeetCode, HackerRank |
-| ⭐ **CF Rating: 1055** | Codeforces — [out_of_the_Circle](https://codeforces.com/profile/out_of_the_Circle) |
-
----
-
-## 📚 Currently Learning
-
-| Course | Platform | Topics |
-|---|---|---|
-| **Web Development L2** | Programming Hero | TypeScript, Next.js, PostgreSQL, Prisma, Docker, AWS |
-| **Full Stack Data Science** | InceptionBD | Python, ML, Deep Learning, Generative AI, Deployment |
-
----
-
-## 🤝 Community Work
-
-I've been involved in grassroots community work in Matarbari since 2019 — a consistent thread running parallel to my technical career.
-
-- 🩸 **Lead Coordinator, Matarbari Blood Donors Society** *(2019–Present)* — Organised 10+ blood donation camps and emergency donor response systems
-- 📚 **Founder, Matarbari Chattro Kollan Porishod** *(2019–Present)* — Educational, cultural, and social welfare initiatives for students
-- 🦁 **Joint Treasurer, Leo Club of Chittagong Dynamic City** *(July 2024–June 2025)* — Financial operations and service event coordination
-- 💡 **Founder, The Sunshine Online Library** *(2020–Present)* — Built a digital learning platform and led community engagement
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambakhtiar&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambakhtiar&layout=compact&theme=default&hide_border=true)
-
+  <h1 style="display: inline-block;">Hi 👋, I'm Abdullah Muhammad Bakhtiar</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=600&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Problem+Solver;Full+Stack+Web+Developer;Interested+in+Building+Scalable+Apps;" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<br/>
 
-## 📬 Get In Touch
+### 👨‍💻 About Me & Professional Summary
 
-| | |
-|---|---|
-| 📧 Email | [ambakhtiar88@gmail.com](mailto:ambakhtiar88@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/ambakhtiar](https://linkedin.com/in/ambakhtiar) |
-| 🐙 GitHub | [github.com/ambakhtiar](https://github.com/ambakhtiar) |
-| 💻 Codeforces | [out_of_the_Circle](https://codeforces.com/profile/out_of_the_Circle) |
-| 📱 WhatsApp / Telegram | +8801614418883 |
+<ul>
+  <li>🎓 **CSE Graduate** from International Islamic University Chittagong (CGPA: 3.372).</li>
+  <li>💻 **Strong Problem Solver:** Solved **500+ problems** and participated in **50+ contests**, with a Codeforces Rating of 1055.</li>
+  <li>🚀 **Modern Web Developer:** Focused on creating impactful, real-world applications with continuous skill improvement.</li>
+  <li>🧠 **Interests:** Developing scalable database architectures, integrating modern authentication, and automation.</li>
+  <li>⚡ **Fun Fact:** An avid cyclist who loves exploring long-distance routes!</li>
+</ul>
 
----
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <strong>Languages:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python&perline=15" />
+</p>
+
+<p align="left">
+  <strong>Frontend Development:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,daisyui&perline=15" />
+</p>
+
+<p align="left">
+  <strong>Backend Development:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&perline=15" />
+</p>
+
+<p align="left">
+  <strong>Databases & ORM:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&perline=15" />
+</p>
+
+<p align="left">
+  <strong>Authentication & Payment:</strong><br/>
+  <!-- For JWT and SSLCommerz, standard simple icons or plain text are used as there are no direct skillicon/devicon standard SVGs -->
+  <img src="./assets/jwt.webp" height="30" />&nbsp;&nbsp;
+  <img src="./assets/betterauth.svg" height="30" />&nbsp;&nbsp;
+  <img src="./assets/sslcommerz.png" height="30" />
+</p>
+
+<p align="left">
+  <strong>Tools & Technologies:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,windows,linux,docker,vercel&perline=15" />
+</p>
+
+<br/>
+
+### 📫 Let's Connect!
 
 <div align="center">
-  <sub>B.Sc. in Computer Science & Engineering · International Islamic University Chittagong · CGPA 3.37/4.00 · 2021–2025</sub>
+  <a href="https://linkedin.com/in/ambakhtiar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ambakhtiar88@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/+8801614418883" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/8801614418883" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/out_of_the_Circle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codeforces" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/ambakhtiar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leet-code&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode" />
+  </a>
 </div>
+
+<br/>
+
+### 📊 GitHub Statistics (All for ambakhtiar)
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ambakhtiar&show_icons=true&theme=transparent&border_color=0E75B6&hide_border=false" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambakhtiar&layout=compact&theme=transparent&border_color=0E75B6&hide_border=false" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ambakhtiar&theme=transparent&border_color=0E75B6&hide_border=false" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height="165" src="https://github-profile-trophy.vercel.app/?username=ambakhtiar&theme=transparent&no-bg=true&column=2&margin-w=8" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ambakhtiar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<br/>
+<p align="center">
+  <a href="https://github.com/ambakhtiar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambakhtiar&theme=react-dark" />
+  </a>
+</p> 
